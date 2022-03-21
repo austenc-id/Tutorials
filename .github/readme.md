@@ -4,6 +4,7 @@ My goal is to teach myself [Kivy](https://kivy.org/doc/stable/) so as to try my 
 
 ## Tutorials
 
+
 - [Pong](docs/pong.md)
 - [Paint](docs/paint.md)
 
@@ -12,3 +13,4 @@ My goal is to teach myself [Kivy](https://kivy.org/doc/stable/) so as to try my 
 - [Kivy on Android](https://kivy.org/doc/stable/guide/android.html)
 - [Create a Package for Android](https://kivy.org/doc/stable/guide/packaging-android.html#packaging-android)
 - [python-for-android](https://python-for-android.readthedocs.io/en/latest/)
+- [Android Studio](https://developer.android.com/studio/intro)
