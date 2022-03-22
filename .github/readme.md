@@ -4,9 +4,12 @@ My goal is to teach myself [Kivy](https://kivy.org/doc/stable/) so as to try my 
 
 ## Tutorials
 
-
-- ~[Pong](docs/pong.md)~
-- ~[Paint](docs/paint.md)~
+- ~Build Kivy apps~
+    - ~[Pong](docs/pong.md)~
+    - ~[Paint](docs/paint.md)~
+- Package Android apps
+    - [Pong](docs/pong.md)
+    - [Paint](docs/paint.md)
 
 ## Reference
 
